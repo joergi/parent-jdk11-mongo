@@ -16,11 +16,13 @@
           <name>GitHub joergi Apache Maven Packages</name>
           <url>https://maven.pkg.github.com/joergi/parent-jdk11</url>
         </repository>
+        <!--
         <repository>
           <id>github</id>
           <name>GitHub joergi Apache Maven Packages</name>
           <url>https://maven.pkg.github.com/joergi/parent-jdk11-mongo</url>
         </repository>
+-->
       </repositories>
     </profile>
   </profiles>
