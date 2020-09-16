@@ -5,13 +5,13 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<artifactId>parent-jdk11-mongo</artifactId>
-	<version>2.3.3-7.RELEASE</version>
+	<version>2.3.3-8.RELEASE</version>
 	<packaging>pom</packaging>
 	<name>joergi.io parent-jdk11-mongo</name>
 	
 	<parent>
 		<groupId>io.joergi</groupId>
-		<artifactId>parent-pom</artifactId>
+		<artifactId>parent-jdk11</artifactId>
 		<version>2.3.3-2.RELEASE</version>
 	</parent>
 
